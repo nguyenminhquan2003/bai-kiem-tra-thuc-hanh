@@ -1,0 +1,16 @@
+body{
+    font-family: Tahoma;
+    font-size: 13px;
+    width: 1000px;
+    margin: 0px auto;
+}
+.profile{
+    min-height: 400px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.anh{
+    border: 1px solid #000;
+    margin: 10px 10px 0px 10px;
+}
